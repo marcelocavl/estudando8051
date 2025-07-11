@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+cd ~/repositorios/estudando8051/piscaLed/build
+sdcc ~/repositorios/estudando8051/piscaLed/src/pisca.c
